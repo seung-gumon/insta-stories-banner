@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/seung-gumon/insta-stories-banner/issues"
   },
-  "homepage": "https://github.com/seung-gumon/insta-stories-banner#readme"
+  "homepage": "https://github.com/seung-gumon/insta-stories-banner#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.38",
+    "@types/styled-components": "^5.1.21",
+    "react": "^17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "dependencies": {
+    "save": "^2.4.0"
+  }
 }
