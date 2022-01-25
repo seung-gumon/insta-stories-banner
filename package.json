@@ -2,7 +2,8 @@
   "name": "insta-stories-banner",
   "version": "1.0.0",
   "description": "instagram-stries banner",
-  "main": "src/index.tsx",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/seung-gumon/insta-stories-banner.git"
   },
-  "author": "",
+  "author": "SeungGumon",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/seung-gumon/insta-stories-banner/issues"
