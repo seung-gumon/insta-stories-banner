@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "type": "video",
+    "poster": "",
+    "contentUrl": "https://img.thesaracen.com/banner/7b1fae3acded969db245e3aa5d306f20.mp4",
+    "duration": 15000,
+    "title": "2022 임인년 호랑이 아트",
+    "subTitle": "캐미젤 호박 네일 시럽젤 보러오호랑",
+    "textColor": "yellow",
+    "link": "https://www.naver.com"
+  },
+  {
+    "id": 2,
+    "type": "video",
+    "poster": "",
+    "contentUrl": "https://img.thesaracen.com/banner/447096b3edca09e9336c84d681b02c7c.jpg",
+    "duration": 10000,
+    "title": "2022 임인년 호랑이 아트",
+    "subTitle": "캐미젤 호박 네일 시럽젤 보러오호랑",
+    "textColor": "red",
+    "link": "https://www.naver.com"
+  }
+]

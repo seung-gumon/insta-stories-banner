@@ -1,26 +1,19 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-interface IWrap {}
 
-const Wrap = styled.div`
-  width: 100%;
-  height: auto;
-  display: flex;
-`;
 
-interface IStores {
-  contents: string[];
-}
 
-const Stories: React.FC<IStores> = ({ contents }) => {
-  return (
-    <Wrap>
-      {contents.map((content) => {
-        return <span>{content}</span>;
-      })}
-    </Wrap>
-  );
+const StoryBanner = () => {
+    return (
+        <main>
+            <section>
+                Hello Bit
+            </section>
+        </main>
+    );
 };
 
-export default Stories;
+
+
+ReactDOM.render(<StoryBanner />, document.getElementById('app'));
